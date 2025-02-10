@@ -1,6 +1,6 @@
 [![Masterhead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2sSDj_Mig8SSXJQCLcBGAsYHQ/s1600/s1600/2000_600p.gif)](https://taweshaldev99.io)
 <h1 align="center">Hi 👋, I'm Taweshal Dev Thakur</h1>
-<h3 align="center">Future Engineer | Coding for a better tomorrow</h3>
+<h3 align="left">Future Engineer | Coding for a better tomorrow</h3>
 <img align="right" alt="Cdding" width="400" src="https://repository-images.githubusercontent.com/462900780/0a10af70-6cbf-46df-9071-0ff586a3b1d6">
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=taweshaldev99&label=Profile%20views&color=0e75b6&style=flat" alt="taweshaldev99" /> </p>
