@@ -3,7 +3,7 @@
 <h3 align="left">Future Engineer | Coding for a better tomorrow</h3>
 <img align="right" alt="Cdding" width="400" src="https://repository-images.githubusercontent.com/462900780/0a10af70-6cbf-46df-9071-0ff586a3b1d6">
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=taweshaldev99&label=Profile%20views&color=0e75b6&style=flat" alt="taweshaldev99" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=taweshaldev99&label=Profile%20views&color=0e75b6&style=flat" alt="taweshaldev99" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=taweshaldev99" alt="taweshaldev99" /></a> </p>
 
