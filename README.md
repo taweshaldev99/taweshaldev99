@@ -13,7 +13,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=taweshaldev99" alt="taweshaldev99" /></a> </p>
 
-- 🌱 I’m currently learning **Python**
+- 🌱 I’m currently learning **Python, JavaScript**
 
 - 💬 Ask me about **C,C++,Java**
 
