@@ -1,6 +1,6 @@
 [![Masterhead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2sSDj_Mig8SSXJQCLcBGAsYHQ/s1600/s1600/2000_600p.gif)](https://taweshaldev99.io)
 <h1 align="center">Hi 👋, I'm Taweshal Dev Thakur</h1>
-<h3 align="center">Future Engineer | Coding for a better tomorrow</h3>
+<h3 align="center">Data Analyst | AI & ML Learner | Turning Data into Intelligent Decisions</h3>
 <div align = "center"> 
   <img  alt="Cdding" width="400" src="https://repository-images.githubusercontent.com/462900780/0a10af70-6cbf-46df-9071-0ff586a3b1d6">
 </div> 
@@ -13,7 +13,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=taweshaldev99" alt="taweshaldev99" /></a> </p>
 
-- 🌱 I’m currently learning **Python**
+- 🌱 I’m currently learning **Python for Data Anlysis**
 
 - 💬 Ask me about **C, C++, Java, JS, Php**
 
