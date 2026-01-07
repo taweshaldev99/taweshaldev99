@@ -13,9 +13,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=taweshaldev99" alt="taweshaldev99" /></a> </p>
 
-- 🌱 I’m currently learning **Python for Data Analysis**
+- 🌱 I’m currently learning **AI/ML**
 
-- 💬 Ask me about **C, C++, Java, JS, Php**
+- 💬 Ask me about **C/C++, JS, Php & Python**
 
 - 📫 How to reach me **thakur2sl.py@gmail.com**
 
